@@ -1,0 +1,1 @@
+VUT BPC-SSY project
