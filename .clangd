@@ -1,0 +1,11 @@
+CompileFlags:
+  Add:
+    - --target=avr
+    - -mmcu=atmega256rfr2
+    - -I/opt/homebrew/opt/avr-gcc@11/avr/include
+    - -I/Users/heweger/Vut/mgr-second/ssy-proj
+    - -I/Users/hedweger/Vut/mgr-second/ssy-proj/stack/sys/inc
+    - -I/Users/hedweger/Vut/mgr-second/ssy-proj/stack/phy/atmega256rfr2/inc
+    - -I/Users/hedweger/Vut/mgr-second/ssy-proj/stack/nwk/inc
+    - -I/Users/hedweger/Vut/mgr-second/ssy-proj/stack/hal/atmega256rfr2/inc
+    - -I/Users/hedweger/Vut/mgr-second/ssy-proj/stack/hal/drivers/atmega256rfr2/inc
